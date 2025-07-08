@@ -1,6 +1,6 @@
 # 🩺 Doctor Appointment Booking System
 
-A web-based platform designed to streamline doctor appointment bookings.
+A web-based platform designed to seamless streamline doctor appointment bookings.
 ## 🧠 About the Project
 
 This Doctor Appointment Booking System allows patients to register, browse available doctors by specialty, and book appointments online. Doctors can manage their schedules, and admins can monitor and manage the platform.Developed as a final-year project by a team of Computer Science Engineering students.
