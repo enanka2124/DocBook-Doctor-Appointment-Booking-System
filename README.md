@@ -24,11 +24,11 @@ This project aims to digitize and simplify the manual appointment process, makin
 ## 🛠️ Tech Stack
 
 **Frontend**:
-- HTML, CSS, JavaScript
+- HTML, CSS(Talwind CSS), JavaScript
 - React .js
 
 **Backend**:
--  Node.js, Express .js
+-  Node.js, Express.js, Mongo DB
   
 **Database**:
 - MongoDB
